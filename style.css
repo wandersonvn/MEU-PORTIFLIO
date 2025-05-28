@@ -296,9 +296,6 @@ section.portfolio .flex {
 .img-port:hover {
     background-position: 100% 100%;
 }
-img {
-  border-radius: 30px;
-}
 
 .overlay {
     position: absolute;
@@ -321,6 +318,8 @@ img {
 .overlay:hover {
     opacity: 1;
 }
+.img-sobre img {
+    border-radius: 30px 
 
 /* ESTILO DO FORMULÁRIO DE CONTATO */
 section.formulario {
